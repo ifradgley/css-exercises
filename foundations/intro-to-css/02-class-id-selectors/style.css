@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+body
+p {
+  background-color: lightcoral;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
